@@ -1,5 +1,6 @@
 body { 
     text-align: center;
+    background-color: azure;
 }
 
 .container {
@@ -17,11 +18,6 @@ body {
 }
 
 
-.line {
-
-
-
-}
 .button {
     margin: 20px;
     height: 6rem;
